@@ -1,4 +1,3 @@
-
 # Hi there, I'm Sayyeda Shifa! 👋
 
 <div align="center">
@@ -18,28 +17,16 @@
 ---
 
 ## 🙋‍♀️ About Me
+*"I build things for the web and the cloud — and sometimes design them too."*
 
-```python
-class SayyedaShifa:
-    def __init__(self):
-        self.name       = "Sayyeda Shifa"
-        self.role       = ["Cloud Engineer", "Full Stack Developer"]
-        self.location   = "India 🇮🇳  —  Open to Remote & On-site"
-        self.education  = "B.Voc Web Development · J.C. Bose University (CGPA: 9.08/10)"
-        self.languages  = ["Python", "JavaScript", "TypeScript", "SQL", "HTML/CSS"]
-        self.cloud      = ["AWS S3", "EC2", "Lambda", "IAM", "CloudWatch", "RDS"]
-        self.frameworks = ["React", "Node.js", "Express", "Flask"]
-        self.tools      = ["Docker", "Git", "Figma", "MySQL", "Postman"]
-        self.currently  = "Building AWS-powered projects & levelling up to certification"
-        self.fun_fact   = "Cloud Engineer who also does graphic design 🎨☁️"
+I'm **Sayyeda Shifa**, a Cloud Engineer & Full Stack Developer based in India 🇮🇳, open to Remote & On-site opportunities.
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something great together 🚀")
+With a B.Voc in Web Development (CGPA: 9.08/10) from J.C. Bose University, I combine hands-on AWS experience — S3, Lambda, EC2, IAM, RDS — with full stack skills in React, Node.js, Python, and Flask. I've built serverless file systems, live client websites, and cloud-hosted platforms from scratch.
 
-me = SayyedaShifa()
-me.say_hi()
-```
+What makes me different? I'm equally comfortable reading a VPC architecture diagram and pushing a pixel-perfect React component. I also bring graphic design to the table — so yes, I think in systems *and* in visuals.
 
+🚀 Currently building AWS-powered projects and working toward AWS certification.
+📍 India — Available for remote roles.
 ---
 
 ## 🔭 What I'm Up To
@@ -50,7 +37,7 @@ me.say_hi()
 | 🤝 **Looking to collaborate on** | Full stack web apps, cloud-based systems & open source |
 | 🌱 **Currently learning** | AWS certifications, Docker & Terraform |
 | 💬 **Ask me about** | AWS S3 & Lambda, React, Python, portfolio building |
-| ⚡ **Fun fact** | I'm a Cloud Engineer who also does graphic design — yes, both hemispheres are active! |
+| ⚡ **Fun fact** | I'm a Cloud Engineer who also does graphic design yes, both hemispheres are active! |
 
 ---
 
@@ -88,17 +75,6 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 📁 **[File Upload & Download System](https://github.com/sayyedashifa26)** | Scalable serverless file platform using AWS S3, React & Node.js/Express | `AWS S3` `React` `Node.js` `Axios` |
-| 🖼️ **[Serverless Image Upload System](https://github.com/sayyedashifa26)** | Upload, fetch & delete images via S3; URLs auto-saved to MySQL | `AWS S3` `Node.js` `React` `MySQL` |
-| 🌐 **[Static Website Hosting on S3](https://github.com/sayyedashifa26)** | Static site deployed on Amazon S3 with custom bucket policy | `AWS S3` `HTML/CSS` |
-| 📝 **[Institute Examination System](https://github.com/sayyedashifa26)** | Full exam management with Java backend & SQL database | `Java` `Apache Tomcat` `SQL` |
-| 💼 **[Enayaat.com — Freelance Project](https://github.com/sayyedashifa26)** | Live commercial full-stack client project built with a team | `JavaScript` `Node.js` `HTML/CSS` |
-
----
 
 ## 📊 GitHub Stats
 
@@ -133,23 +109,6 @@ me.say_hi()
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sayyedashifa26&bg_color=fdf5f6&color=800020&line=800020&point=c0304a&area=true&hide_border=false&border_color=d0b0b8)
-
-</div>
-
----
-
-## 🎓 Education
-
-🎓 **Bachelor of Vocation — Web Development** | CGPA: 9.08/10
-J.C. Bose University of Science & Technology, YMCA, Faridabad *(2020 – 2023)*
-
-📜 **Diploma in Computer Science** | 74%
-Jamia Millia Islamia, Central University, New Delhi *(2016 – 2019)*
-
-🏫 **Secondary Education — CBSE** | 8.2/10
-SFDAV Public School, Mansoorpur *(2005 – 2016)*
-
----
 
 <div align="center">
 
