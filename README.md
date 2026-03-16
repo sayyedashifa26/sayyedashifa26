@@ -19,14 +19,13 @@
 ## 🙋‍♀️ About Me
 *"I build things for the web and the cloud — and sometimes design them too."*
 
-I'm **Sayyeda Shifa**, a Cloud Engineer & Full Stack Developer based in India 🇮🇳, open to Remote & On-site opportunities.
+I'm **Sayyeda Shifa**, a Cloud Engineer & Full Stack Developer .
 
-With a B.Voc in Web Development (CGPA: 9.08/10) from J.C. Bose University, I combine hands-on AWS experience — S3, Lambda, EC2, IAM, RDS — with full stack skills in React, Node.js, Python, and Flask. I've built serverless file systems, live client websites, and cloud-hosted platforms from scratch.
+I combine hands-on AWS experience — S3, Lambda, EC2, IAM, RDS — with full stack skills in React, Node.js, Python, and Flask. I've built serverless file systems, live client websites, and cloud-hosted platforms from scratch.
 
 What makes me different? I'm equally comfortable reading a VPC architecture diagram and pushing a pixel-perfect React component. I also bring graphic design to the table — so yes, I think in systems *and* in visuals.
 
 🚀 Currently building AWS-powered projects and working toward AWS certification.
-📍 India — Available for remote roles.
 ---
 
 ## 🔭 What I'm Up To
@@ -75,16 +74,6 @@ What makes me different? I'm equally comfortable reading a VPC architecture diag
 
 ---
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayyedashifa26&show_icons=true&theme=default&title_color=800020&icon_color=800020&text_color=1a0a0d&bg_color=fdf5f6&border_color=d0b0b8&hide_border=false&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyedashifa26&layout=compact&theme=default&title_color=800020&text_color=1a0a0d&bg_color=fdf5f6&border_color=d0b0b8&hide_border=false" />
-
-</div>
 
 <div align="center">
 
